@@ -6,7 +6,7 @@
     "author": "Elara Vance",
     "coverImage": "https://picsum.photos/seed/shadows/400/600",
     "description": "A detective with a troubled past uncovers a conspiracy that goes deeper than she could ever imagine. In a city of eternal twilight, every shadow holds a secret.",
-    "path": "/Novels/the-whispering-shadows/novel.json"
+    "path": "https://github.com/botaone/my-novels/blob/main/Novels/the-whispering-shadows/novel.json"
   },
   {
     "id": 2,
@@ -14,7 +14,7 @@
     "author": "Jax Orion",
     "coverImage": "https://picsum.photos/seed/star/400/600",
     "description": "The last star-mapper in a dying galaxy embarks on a final journey to find the mythical Echo Star, a celestial body rumored to reboot the universe.",
-    "path": "/Novels/echoes-of-a-lost-star/novel.json"
+    "path": "https://github.com/botaone/my-novels/blob/main/Novels/echoes-of-a-lost-star/novel.json"
   },
   {
     "id": 3,
@@ -22,7 +22,7 @@
     "author": "Helena Cogsmith",
     "coverImage": "https://picsum.photos/seed/alchemist/400/600",
     "description": "In a world powered by steam and alchemy, a brilliant inventor is framed for a crime she didn't commit, forcing her to go on the run with her automaton companion.",
-    "path": "/Novels/the-clockwork-alchemist/novel.json"
+    "path": "https://github.com/botaone/my-novels/blob/main/Novels/the-clockwork-alchemist/novel.json"
   },
   {
     "id": 4,
@@ -30,6 +30,6 @@
     "author": "Sila Maris",
     "coverImage": "https://picsum.photos/seed/moon/400/600",
     "description": "A young botanist discovers a hidden, bioluminescent world in the deep ocean, but its existence is threatened by a corporation seeking to exploit its resources.",
-    "path": "/Novels/gardens-of-the-sunken-moon/novel.json"
+    "path": "https://github.com/botaone/my-novels/blob/main/Novels/gardens-of-the-sunken-moon/novel.json"
   }
 ]
