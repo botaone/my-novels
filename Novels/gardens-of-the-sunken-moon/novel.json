@@ -3,6 +3,7 @@
   "id": 4,
   "title": "Gardens of the Sunken Moon",
   "author": "Sila Maris",
+  "categories": ["Fantasy", "Adventure"],
   "coverImage": "https://picsum.photos/seed/moon/400/600",
   "description": "A young botanist discovers a hidden, bioluminescent world in the deep ocean, but its existence is threatened by a corporation seeking to exploit its resources.",
   "chapters": [
