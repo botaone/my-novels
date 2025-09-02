@@ -3,6 +3,7 @@
   "id": 1,
   "title": "The Whispering Shadows",
   "author": "Elara Vance",
+  "categories": ["Fantasy", "Mystery"],
   "coverImage": "https://picsum.photos/seed/shadows/400/600",
   "description": "A detective with a troubled past uncovers a conspiracy that goes deeper than she could ever imagine. In a city of eternal twilight, every shadow holds a secret.",
   "chapters": [
