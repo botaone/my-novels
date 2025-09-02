@@ -1,9 +1,9 @@
-
 [
   {
     "id": 1,
     "title": "พงไพรเสียงกระซิบและผลึกแห่งเสียงสะท้อน",
     "author": "Elara Vance",
+    "categories": ["Fantasy", "Mystery"],
     "coverImage": "https://picsum.photos/seed/shadows/400/600",
     "description": "A detective with a troubled past uncovers a conspiracy that goes deeper than she could ever imagine. In a city of eternal twilight, every shadow holds a secret.",
     "path": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/the-whispering-shadows/novel.json"
@@ -12,6 +12,7 @@
     "id": 2,
     "title": "Echoes of a Lost Star",
     "author": "Jax Orion",
+    "categories": ["Science Fiction", "Adventure"],
     "coverImage": "https://picsum.photos/seed/star/400/600",
     "description": "The last star-mapper in a dying galaxy embarks on a final journey to find the mythical Echo Star, a celestial body rumored to reboot the universe.",
     "path": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/novel.json"
@@ -20,6 +21,7 @@
     "id": 3,
     "title": "The Clockwork Alchemist",
     "author": "Helena Cogsmith",
+    "categories": ["Steampunk", "Thriller"],
     "coverImage": "https://picsum.photos/seed/alchemist/400/600",
     "description": "In a world powered by steam and alchemy, a brilliant inventor is framed for a crime she didn't commit, forcing her to go on the run with her automaton companion.",
     "path": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/the-clockwork-alchemist/novel.json"
@@ -28,6 +30,7 @@
     "id": 4,
     "title": "Gardens of the Sunken Moon",
     "author": "Sila Maris",
+    "categories": ["Fantasy", "Adventure"],
     "coverImage": "https://picsum.photos/seed/moon/400/600",
     "description": "A young botanist discovers a hidden, bioluminescent world in the deep ocean, but its existence is threatened by a corporation seeking to exploit its resources.",
     "path": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/gardens-of-the-sunken-moon/novel.json"
@@ -36,6 +39,7 @@
     "id": 6,
     "title": "การผจญภัยของมานุ และ เอสล่า",
     "author": "Sila Maris",
+    "categories": ["Romance", "Science Fiction"],
     "coverImage": "https://picsum.photos/seed/moon/400/600",
     "description": "A young botanist discovers a hidden, bioluminescent world in the deep ocean, but its existence is threatened by a corporation seeking to exploit its resources.",
     "path": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/การผจญภัยของมานุ%20และ%20เอสล่า/novel.json"
