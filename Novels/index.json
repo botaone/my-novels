@@ -31,21 +31,5 @@
     "coverImage": "https://picsum.photos/seed/moon/400/600",
     "description": "A young botanist discovers a hidden, bioluminescent world in the deep ocean, but its existence is threatened by a corporation seeking to exploit its resources.",
     "path": "/Novels/gardens-of-the-sunken-moon/novel.json"
-  },
-  {
-    "id": 5,
-    "title": "The Crimson Cipher",
-    "author": "Alex Mercer",
-    "coverImage": "https://picsum.photos/seed/cipher/400/600",
-    "description": "A historian deciphers an ancient code that leads to a legendary artifact, but he's not the only one searching for it. A secret society will stop at nothing to claim it.",
-    "path": "/Novels/the-crimson-cipher/novel.json"
-  },
-  {
-    "id": 6,
-    "title": "Zero-Point Renegade",
-    "author": "K.D. Sterling",
-    "coverImage": "https://picsum.photos/seed/renegade/400/600",
-    "description": "A cybernetically enhanced soldier goes rogue after discovering the corrupt truth behind the war he was fighting. Now, he's hunted by the very mega-corporation that created him.",
-    "path": "/Novels/zero-point-renegade/novel.json"
   }
 ]
