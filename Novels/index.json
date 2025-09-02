@@ -31,5 +31,13 @@
     "coverImage": "https://picsum.photos/seed/moon/400/600",
     "description": "A young botanist discovers a hidden, bioluminescent world in the deep ocean, but its existence is threatened by a corporation seeking to exploit its resources.",
     "path": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/gardens-of-the-sunken-moon/novel.json"
+  },
+  {
+    "id": 6,
+    "title": "การผจญภัยของมานุ และ เอสล่า",
+    "author": "Sila Maris",
+    "coverImage": "https://picsum.photos/seed/moon/400/600",
+    "description": "A young botanist discovers a hidden, bioluminescent world in the deep ocean, but its existence is threatened by a corporation seeking to exploit its resources.",
+    "path": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/การผจญภัยของมานุ%20และ%20เอสล่า/novel.json"
   }
 ]
