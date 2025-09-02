@@ -3,6 +3,7 @@
   "id": 3,
   "title": "The Clockwork Alchemist",
   "author": "Helena Cogsmith",
+  "categories": ["Steampunk", "Thriller"],
   "coverImage": "https://picsum.photos/seed/alchemist/400/600",
   "description": "In a world powered by steam and alchemy, a brilliant inventor is framed for a crime she didn't commit, forcing her to go on the run with her automaton companion.",
   "chapters": [
