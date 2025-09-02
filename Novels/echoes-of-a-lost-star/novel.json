@@ -7,17 +7,17 @@
   "coverImage": "https://picsum.photos/seed/star/400/600",
   "description": "The last star-mapper in a dying galaxy embarks on a final journey to find the mythical Echo Star, a celestial body rumored to reboot the universe.",
   "chapters": [
-    { "id": 1, "title": "Chapter 1: The Stardust Drifter", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-1.md", "isPremium": true, "price": 30 },
-    { "id": 2, "title": "Chapter 2: The Fading Charts", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-2.md", "isPremium": true, "price": 30 },
-    { "id": 3, "title": "Chapter 3: The Mythical Light", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-3.md", "isPremium": true, "price": 30 },
-    { "id": 4, "title": "Chapter 4: The Nebula's Heart", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-4.md", "isPremium": true, "price": 30 },
-    { "id": 5, "title": "Chapter 5: A Signal in the Void", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-5.md", "isPremium": true, "price": 30 },
-    { "id": 6, "title": "Chapter 6: The Ghost Fleet", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-6.md", "isPremium": true, "price": 30 },
-    { "id": 7, "title": "Chapter 7: The Oracle of Ceres", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-7.md", "isPremium": true, "price": 30 },
-    { "id": 8, "title": "Chapter 8: The Price of Knowledge", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-8.md", "isPremium": true, "price": 30 },
-    { "id": 9, "title": "Chapter 9: The Anomaly", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-9.md", "isPremium": true, "price": 30 },
-    { "id": 10, "title": "Chapter 10: The Last Jump", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-10.md", "isPremium": true, "price": 30 },
-    { "id": 11, "title": "Chapter 11: The Dying Light", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-11.md", "isPremium": true, "price": 30 },
-    { "id": 12, "title": "Chapter 12: Echoes", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-12.md", "isPremium": true, "price": 30 }
+    { "id": 1, "title": "The Stardust Drifter", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-1.md", "isPremium": true, "price": 30 },
+    { "id": 2, "title": "The Fading Charts", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-2.md", "isPremium": true, "price": 30 },
+    { "id": 3, "title": "The Mythical Light", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-3.md", "isPremium": true, "price": 30 },
+    { "id": 4, "title": "The Nebula's Heart", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-4.md", "isPremium": true, "price": 30 },
+    { "id": 5, "title": "A Signal in the Void", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-5.md", "isPremium": true, "price": 30 },
+    { "id": 6, "title": "The Ghost Fleet", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-6.md", "isPremium": true, "price": 30 },
+    { "id": 7, "title": "The Oracle of Ceres", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-7.md", "isPremium": true, "price": 30 },
+    { "id": 8, "title": "The Price of Knowledge", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-8.md", "isPremium": true, "price": 30 },
+    { "id": 9, "title": "The Anomaly", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-9.md", "isPremium": true, "price": 30 },
+    { "id": 10, "title": "The Last Jump", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-10.md", "isPremium": true, "price": 30 },
+    { "id": 11, "title": "The Dying Light", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-11.md", "isPremium": true, "price": 30 },
+    { "id": 12, "title": "Echoes", "content": "", "contentPath": "https://raw.githubusercontent.com/botaone/my-novels/main/Novels/echoes-of-a-lost-star/chapter-12.md", "isPremium": true, "price": 30 }
   ]
 }
