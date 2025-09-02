@@ -1,0 +1,3 @@
+But a stray data packet, a ghost in the machine, flickered in his vision. A classified file.
+
+He opened it. The truth was a virus, corrupting his loyalty...
