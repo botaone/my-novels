@@ -1,0 +1,12 @@
+
+{
+  "id": 4,
+  "title": "Gardens of the Sunken Moon",
+  "author": "Sila Maris",
+  "coverImage": "https://picsum.photos/seed/moon/400/600",
+  "description": "A young botanist discovers a hidden, bioluminescent world in the deep ocean, but its existence is threatened by a corporation seeking to exploit its resources.",
+  "chapters": [
+    { "id": 1, "title": "Chapter 1: The Abyss", "content": "", "contentPath": "/Novels/gardens-of-the-sunken-moon/chapter-1.md", "isPremium": false, "price": 0 },
+    { "id": 2, "title": "Chapter 2: The Impossible Garden", "content": "", "contentPath": "/Novels/gardens-of-the-sunken-moon/chapter-2.md", "isPremium": false, "price": 0 }
+  ]
+}

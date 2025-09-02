@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": 1,
+    "title": "The Whispering Shadows",
+    "author": "Elara Vance",
+    "coverImage": "https://picsum.photos/seed/shadows/400/600",
+    "description": "A detective with a troubled past uncovers a conspiracy that goes deeper than she could ever imagine. In a city of eternal twilight, every shadow holds a secret.",
+    "path": "/Novels/the-whispering-shadows/novel.json"
+  },
+  {
+    "id": 2,
+    "title": "Echoes of a Lost Star",
+    "author": "Jax Orion",
+    "coverImage": "https://picsum.photos/seed/star/400/600",
+    "description": "The last star-mapper in a dying galaxy embarks on a final journey to find the mythical Echo Star, a celestial body rumored to reboot the universe.",
+    "path": "/Novels/echoes-of-a-lost-star/novel.json"
+  },
+  {
+    "id": 3,
+    "title": "The Clockwork Alchemist",
+    "author": "Helena Cogsmith",
+    "coverImage": "https://picsum.photos/seed/alchemist/400/600",
+    "description": "In a world powered by steam and alchemy, a brilliant inventor is framed for a crime she didn't commit, forcing her to go on the run with her automaton companion.",
+    "path": "/Novels/the-clockwork-alchemist/novel.json"
+  },
+  {
+    "id": 4,
+    "title": "Gardens of the Sunken Moon",
+    "author": "Sila Maris",
+    "coverImage": "https://picsum.photos/seed/moon/400/600",
+    "description": "A young botanist discovers a hidden, bioluminescent world in the deep ocean, but its existence is threatened by a corporation seeking to exploit its resources.",
+    "path": "/Novels/gardens-of-the-sunken-moon/novel.json"
+  },
+  {
+    "id": 5,
+    "title": "The Crimson Cipher",
+    "author": "Alex Mercer",
+    "coverImage": "https://picsum.photos/seed/cipher/400/600",
+    "description": "A historian deciphers an ancient code that leads to a legendary artifact, but he's not the only one searching for it. A secret society will stop at nothing to claim it.",
+    "path": "/Novels/the-crimson-cipher/novel.json"
+  },
+  {
+    "id": 6,
+    "title": "Zero-Point Renegade",
+    "author": "K.D. Sterling",
+    "coverImage": "https://picsum.photos/seed/renegade/400/600",
+    "description": "A cybernetically enhanced soldier goes rogue after discovering the corrupt truth behind the war he was fighting. Now, he's hunted by the very mega-corporation that created him.",
+    "path": "/Novels/zero-point-renegade/novel.json"
+  }
+]
